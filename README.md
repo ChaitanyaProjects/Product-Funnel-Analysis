@@ -56,14 +56,5 @@ The user journey is divided into four steps:
 
 ---
 
-## 🧑‍💻 About Me
-
-Hi, I'm **Chaitanya**, a Computer Science student exploring data analytics and business intelligence through real-world simulations like this.
-
-
-
-## 📬 Feedback?
-
-If you have suggestions or want to collaborate on improving this model, feel free to raise an issue or contact me!
 
 
